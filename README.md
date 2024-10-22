@@ -8,3 +8,7 @@ Tarjetas de crédito - análisis de datos a través de la reducción de dimensio
    📩 allgoher007@gmail.com
    
    www.linkedin.com/in/allan-gonzales-heredia-13a557b5/
+
+  https://allgoher.github.io/Python_VarianzaExplicadaAcumulada_PCA/  
+
+  
